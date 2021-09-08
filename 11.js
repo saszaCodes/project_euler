@@ -78,4 +78,4 @@ function scanArray() {
   return product; 
 }
 scanArray();
-// expected_answer = 70600674
+// expected answer: 70600674
